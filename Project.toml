@@ -1,0 +1,13 @@
+name = "InteractiveLearning"
+uuid = "b5066f49-8c18-4394-b520-ebaedf1a0a20"
+authors = ["Javier González Monge"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
